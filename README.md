@@ -45,7 +45,3 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" **alt="CSS" width="40" height="40"/>
    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
-#
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawkaqa&show_icons=true&theme=tokyonight)
