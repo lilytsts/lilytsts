@@ -15,7 +15,7 @@
 
 <h3> Technologies & Tools:
 
-<div>
+<div align="center">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="ChromeDev" alt="ChromeDev" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
