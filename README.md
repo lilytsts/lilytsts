@@ -29,7 +29,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=Junior+QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a>
 </div>
 
-𝐇𝐚𝐫𝐝 𝐬𝐤𝐢𝐥𝐥𝐬 & 𝐓𝐨𝐨𝐥𝐬:
+<h1> Technologies & Tools:
 
 <div>
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
