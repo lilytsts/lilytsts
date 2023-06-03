@@ -16,18 +16,18 @@
 <h3> Technologies & Tools:
 
 <div align="center">
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="ChromeDev" alt="ChromeDev" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" title="Git" alt="Git " width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" alt="Charles" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/256/xcode_helper_macos_bigsur_icon_189446.png" title="Xcode"  alt="Xcode" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" **alt="CSS" width="40" height="40"/>
-   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="ChromeDev" alt="ChromeDev" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
+  <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" title="Git" alt="Git " width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles" alt="Charles" width="50" height="50"/>&nbsp;
+  <img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" title="Postgres" alt="Postgres" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/256/xcode_helper_macos_bigsur_icon_189446.png" title="Xcode"  alt="Xcode" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" title="Android Studio"  alt="Android Studio" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/jira_cloud_macos_bigsur_icon_190051.png" title="Jira" alt="Jira" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" **alt="CSS" width="50" height="50"/>
+   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
 <div align="center">
