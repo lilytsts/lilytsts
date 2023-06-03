@@ -29,11 +29,3 @@
 ### Connect with me:
 
 [<img align="left" alt="LiliyaTsikul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LiliyaTsikul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="LiliyaTsikul | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
-<br />
-
-
-[linkedin]: https://www.linkedin.com/in/liliya-tsikul-b289021a7/
-[tg]: https://t.me/liliya_tsikul
