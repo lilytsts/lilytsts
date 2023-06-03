@@ -30,8 +30,9 @@
    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
-<div>
+<div align="center">
 <h3>Connect with me:
+
 <p align="middle">
   <a href="https://www.linkedin.com/in/liliya-tsikul-b289021a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
