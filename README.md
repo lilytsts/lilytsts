@@ -14,7 +14,7 @@
 - 🌟 I find satisfaction in knowing that my work contributes to the overall success of the product.
 
 <div align="center">
-<h1>Connect with me:
+<h3>Connect with me:
 <p align="middle">
   <a href="https://www.linkedin.com/in/liliya-tsikul-b289021a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,7 +29,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&width=435&lines=Junior+QA+Engineer+from+Russia+%3A)" alt="Typing SVG" /></a>
 </div>
 
-<h1> Technologies & Tools:
+<h3> Technologies & Tools:
 
 <div>
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
