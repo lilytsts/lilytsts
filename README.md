@@ -15,7 +15,7 @@
 
 <h3> Technologies & Tools:
 
-<div align="center">
+<div>
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="ChromeDev" alt="ChromeDev" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
@@ -30,7 +30,7 @@
    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
 </div>
 
-<div align="center">
+<div>
 <h3>Connect with me:
 <p align="middle">
   <a href="https://www.linkedin.com/in/liliya-tsikul-b289021a7/">
