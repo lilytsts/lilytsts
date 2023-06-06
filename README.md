@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Lily
-
-<iframe src="https://giphy.com/embed/cFkiFMDg3iFoI" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/git-merge-cFkiFMDg3iFoI">via GIPHY</a></p>
+ъ
 
 ## I'm QA Engineer
 🧪 I enjoy testing and ensuring quality in software products
