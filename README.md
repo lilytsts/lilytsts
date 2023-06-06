@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Lily
-ъ
+
 
 ## I'm QA Engineer
 🧪 I enjoy testing and ensuring quality in software products
