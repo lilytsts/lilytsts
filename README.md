@@ -1,12 +1,5 @@
 ### Hi there 👋, I'm Lily
 
-
-## I'm QA Engineer
-- 🧪 I enjoy testing and ensuring quality in software products
-- 🌐 I have a deep understanding of web technologies and how they interact
-- 🌱 I am committed to continuous learning, staying updated with the latest QA trends and tools
-- ⚙️ I have a strong attention to detail and can spot even the smallest defects
-
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 
 
