@@ -2,17 +2,10 @@
 
 
 ## I'm QA Engineer
-🧪 I enjoy testing and ensuring quality in software products
-- 📚 I'm always exploring new testing methodologies and techniques
-- 💡 I thrive on finding and fixing bugs to enhance the user experience
+- 🧪 I enjoy testing and ensuring quality in software products
 - 🌐 I have a deep understanding of web technologies and how they interact
-- 📊 I analyze data and use metrics to improve the efficiency of testing processes
 - 🌱 I am committed to continuous learning, staying updated with the latest QA trends and tools
-- 🚀 I collaborate closely with developers, product managers, and designers to deliver high-quality products
-- 🎯 I set and achieve quality goals, striving for excellence in every aspect of my work
-- 🤝 I communicate effectively and work well in cross-functional teams
 - ⚙️ I have a strong attention to detail and can spot even the smallest defects
-- 🌟 I find satisfaction in knowing that my work contributes to the overall success of the product.
 
 <h3> Technologies & Tools:
 
