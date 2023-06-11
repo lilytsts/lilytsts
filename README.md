@@ -7,6 +7,9 @@
 - 🌱 I am committed to continuous learning, staying updated with the latest QA trends and tools
 - ⚙️ I have a strong attention to detail and can spot even the smallest defects
 
+[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
+
+
 <h3> Technologies & Tools:
 
 <div>
