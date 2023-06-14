@@ -11,7 +11,7 @@
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   </a>
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="ChromeDev" alt="ChromeDev" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Bash" alt="Terminal" width="50" height="50"/>&nbsp;
   <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" title="Git" alt="Git " width="50" height="50"/>&nbsp;
   <img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" title="Postgres" alt="Postgres" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/256/xcode_helper_macos_bigsur_icon_189446.png" title="Xcode"  alt="Xcode" width="50" height="50"/>&nbsp;
