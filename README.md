@@ -3,7 +3,7 @@
 [![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
 
 
-<h3> Technologies & Tools:
+### Technologies & Tools:
 
 <div>
 
@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-<h3>Connect with me:
+###Connect with me:
 
 <p align="middle">
   <a href="https://www.linkedin.com/in/liliya-tsikul-b289021a7/">
