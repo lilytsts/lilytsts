@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-###Connect with me:
+### Connect with me:
 
 <p align="middle">
   <a href="https://www.linkedin.com/in/liliya-tsikul-b289021a7/">
