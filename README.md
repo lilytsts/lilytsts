@@ -10,6 +10,7 @@
   <a href="https://github.com/lilytsts/HW">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
   </a>
+  <a href="https://github.com/lilytsts/Devtools_HW.git">
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" title="ChromeDev" alt="ChromeDev" width="50" height="50"/>&nbsp;
   <a href="https://github.com/lilytsts/Terminal_commands">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/terminal_macos_bigsur_icon_189655.png" title="Terminal" alt="Terminal" width="50" height="50"/>&nbsp;
