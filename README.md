@@ -25,8 +25,9 @@
 </div>
 
 <div align="center">
+  
 ### Connect with me:
-
+<div align="center">
 <p align="middle">
   <a href="https://www.linkedin.com/in/liliya-tsikul-b289021a7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
