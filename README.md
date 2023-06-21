@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Lily
 
-[![](https://github.com/mrousavy/mrousavy/blob/master/img/dino.gif)](https://chromedino.com)
-
 ---
 
 ### Technologies & Tools:
