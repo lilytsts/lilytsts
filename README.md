@@ -20,8 +20,8 @@ ___
   <img src="https://seeklogo.com/images/G/git-bash-logo-B6475E8359-seeklogo.com.png" title="Git" alt="Git " width="50" height="50"/>&nbsp;
   <a href="https://github.com/lilytsts/SQL_HW.git">
   <img src="https://seeklogo.com/images/P/postqresql-logo-AD0E066492-seeklogo.com.png" title="Postgres" alt="Postgres" width="50" height="50"/>&nbsp;
-  #<img src="https://cdn.icon-icons.com/icons2/3053/PNG/256/xcode_helper_macos_bigsur_icon_189446.png" title="Xcode"  alt="Xcode" width="50" height="50"/>&nbsp;
-  #<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" title="Android Studio"  alt="Android Studio" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/256/xcode_helper_macos_bigsur_icon_189446.png" title="Xcode"  alt="Xcode" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190394.png" title="Android Studio"  alt="Android Studio" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" **alt="CSS" width="50" height="50"/>
   <a href="https://github.com/lilytsts/JMeter_HW ">
